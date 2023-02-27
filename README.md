@@ -1,15 +1,11 @@
 Make some changes
 
+Teammate A
 
-```js
-function sum(a,b) {
-    return a+b
-}
+- Name:
+- FavColor:
 
-```
+Teammate B
 
-```js
-function filter(word, arr) {
-    return arr.filter(e=> e === word)
-}
-```
+- Name:
+- FavColor:
