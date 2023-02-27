@@ -2,8 +2,8 @@ Make some changes
 
 Teammate A
 
-- Name:
-- FavColor:
+- Name:  Travis Stratton
+- FavColor: 
 
 Teammate B
 
