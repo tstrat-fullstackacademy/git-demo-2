@@ -7,3 +7,9 @@ function sum(a,b) {
 }
 
 ```
+
+```js
+function filter(word, arr) {
+    return arr.filter(e=> e === word)
+}
+```
