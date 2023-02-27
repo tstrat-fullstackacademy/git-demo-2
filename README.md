@@ -3,7 +3,7 @@ Make some changes
 Teammate A
 
 - Name:  Travis Stratton
-- FavColor: 
+- FavColor: Purple
 
 Teammate B
 
