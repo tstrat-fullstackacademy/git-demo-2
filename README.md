@@ -7,5 +7,5 @@ Teammate A
 
 Teammate B
 
-- Name:
-- FavColor:
+- Name:  Iron Man
+- FavColor: Red + Gold
